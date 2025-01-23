@@ -63,19 +63,19 @@
 ## Screenshots
 
 ### Splash Screen  
-![Splash Screen](https://github.com/user-attachments/assets/a93c1843-33e5-41e3-8401-ab6dc6a613eb)
+![Splash Screen](https://github.com/user-attachments/assets/17ee87f7-9545-405d-bb39-7a4ef3930bd5)
 
 ### Onboarding Screen  
-![Onboarding Screen](https://github.com/user-attachments/assets/f999e9b3-55cc-4752-8c9a-566bfd1c1815)
-![Onboarding Step](https://github.com/user-attachments/assets/9f3fbc28-6abd-421d-8854-72cca44b7e5b)
-![Onboarding Detail](https://github.com/user-attachments/assets/69082b2c-d72c-41eb-95a9-679a141f80e9)
+![Onboarding Screen](https://github.com/user-attachments/assets/f3fa17b9-6629-4f47-b71a-4ddb07327f11)
+![Onboarding Step](https://github.com/user-attachments/assets/b6eb96e6-1853-45ed-a03f-9c54ccb148bd)
+![Onboarding Detail](https://github.com/user-attachments/assets/ee6a0693-04b5-442e-83ca-1abd4349bbfb)
 
 ### Login/Register Screen  
-![Login/Register Screen](https://github.com/user-attachments/assets/50b796bb-7130-4911-9801-8089449e8bda)
-![Login Input](https://github.com/user-attachments/assets/1b3735a2-e3e1-4757-a6f9-c3a1e920fbf5)
+![Login/Register Screen](https://github.com/user-attachments/assets/ee0503b8-67d3-4d4a-9e62-e63cbab03b80)
+![Login Input](https://github.com/user-attachments/assets/65d30a0e-f3c0-4c94-b645-a711566a402f)
 
 ### Home Screen  
-![Home Dashboard](https://github.com/user-attachments/assets/b196ccba-caa6-46ec-873a-afe72e2da19e)
+![Home Dashboard](https://github.com/user-attachments/assets/f2b8d87b-b9ce-4490-bf23-bb905caa3686)
 
 ---
 This project is proudly developed as part of a **graduation project** and aims to provide meaningful solutions to document interaction challenges.
