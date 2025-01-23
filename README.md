@@ -28,7 +28,7 @@
    ```
 3. **Navigate to the Project Directory**:
    ```bash
-   cd myapp
+   cd Graduation_Project
    ```
 4. **Install Dependencies**:
    ```bash
@@ -73,9 +73,9 @@
 
 
 ### Login/Register Screen  
-<img src="https://github.com/user-attachments/assets/ee0503b8-67d3-4d4a-9e62-e63cbab03b80" alt="Login/Register Screen" width="300"/>
+<img src="https://github.com/user-attachments/assets/ee0503b8-67d3-4d4a-9e62-e63cbab03b80" alt="Login Screen" width="300"/>
 
-<img src="https://github.com/user-attachments/assets/65d30a0e-f3c0-4c94-b645-a711566a402f" alt="Login Input" width="300"/>
+<img src="https://github.com/user-attachments/assets/65d30a0e-f3c0-4c94-b645-a711566a402f" alt="Register Screen" width="300"/>
 
 
 ### Home Screen  
