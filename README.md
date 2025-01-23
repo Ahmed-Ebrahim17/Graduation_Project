@@ -64,6 +64,7 @@
 
 ### Splash Screen  
 <img src="https://github.com/user-attachments/assets/a93c1843-33e5-41e3-8401-ab6dc6a613eb" alt="Splash Screen" width="300"/>
+
 ### Onboarding Screen  
 <img src="https://github.com/user-attachments/assets/f3fa17b9-6629-4f47-b71a-4ddb07327f11" alt="Onboarding Screen" width="300"/>
 
